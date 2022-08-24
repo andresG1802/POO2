@@ -2,7 +2,7 @@
 Este repositorio es para organizar las ejercicios del curso
 ## Actividad 1
 [Ejercicio 1](https://github.com/andresG1802/POO2/blob/310a09e20400ae89aeb9e10a1b2cdbd071e5f843/Actividad%201/Ejercico1.java)
-### Ejercicio 2
+[Ejercicio 2](https://github.com/andresG1802/POO2/blob/310a09e20400ae89aeb9e10a1b2cdbd071e5f843/Actividad%201/Ejercico2.java)
 ### Ejercicio 3
 ### Ejercicio 4
 ### Ejercicio 5
