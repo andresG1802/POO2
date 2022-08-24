@@ -22,6 +22,6 @@ public class Main
         System.out.println("El capital total es: "+capital);
         System.out.println("Primer porcentaje: "+part1);
         System.out.println("Segundo porcentaje: "+part2);
-        System.out.println("Tercer ddddddddddporcentaje: "+part3);
+        System.out.println("Tercer porcentaje: "+part3);
     }
 }
